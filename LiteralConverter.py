@@ -28,4 +28,4 @@ def num_to_str(number):
         soln = under_20[number[-1]]
     print(soln)
     
-num_to_str(raw_input("Enter number here: "))
+num_to_str(raw_input("Enter number here from 1-9999: "))
